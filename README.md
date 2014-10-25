@@ -1,2 +1,0 @@
-nullgorithm.github.io
-=====================
